@@ -1,5 +1,4 @@
-# idea-gitignore
-The correct way to manage `.idea` folder in git
+# Commititng Team-wide Settings in the Git (e.g. code style settings)
 
 
 Unlike Netbeans, in Jetbrains IDEs, the setting files related to user and team are stored in the same folder. This makes trouble when we need to track changes in the git. 
